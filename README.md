@@ -6,19 +6,19 @@
 [![Build](https://img.shields.io/badge/arquiterura-64bits-blue.svg)]()<br>
   <h6 align="center">
    <img src="https://raw.githubusercontent.com/gorpo/Manicomio-Boot-Theme/master/manicomio/boot.png" width="55%"></img>
-       <h2 align="center">Manicomio | Python Opencv | Reconhecimento com Training Machine Learning</h2>
+       <h2 align="center">Manicomio | Python Opencv |  Machine Learning com Acertividade | Crie seus  Dataset's e Trainers </h2>
   </h6>
   
   
-  <p>Este material faz parte do tutorial <b>Python Opencv | Reconhecimento com Training Machine Learning</b>, postado no youtube para conhecimento do OpenCV  e criação de Trainers de seus Dataset's.<br>
+  <p>Este material faz parte do tutorial <b>Python Opencv |  Machine Learning com Acertividade | Crie seus  Dataset's e Trainers </b>, postado no youtube para conhecimento do OpenCV  e criação de Trainers de seus Dataset's.<br>
 <a href="https://youtu.be/JM9Za5X7E24">Link para o tutorial</a><br></p>
 
 
-<img src="https://raw.githubusercontent.com/gorpo/Python-Opencv-Criando-Haarcascade/master/images/banner.jpg" width="100%">
+<img src="https://raw.githubusercontent.com/gorpo/Python-Opencv-Reconhecimento-com-Training-Machine-Learning/master/dataset/banner.jpg" width="100%">
 
 <h3> Programa de manipulação de imagens com OpenCV e Pillow e criação de Trainers com Dataset's.</h3>
 
-<img src="https://raw.githubusercontent.com/gorpo/Python-Opencv-Criando-Haarcascade/master/images/example.jpg" width="100%"></img>
+<img src="https://raw.githubusercontent.com/gorpo/Python-Opencv-Reconhecimento-com-Training-Machine-Learning/master/dataset/Screenshot_1.jpg" width="100%"></img>
 
 
 
@@ -59,7 +59,7 @@
 
 # Assista o tutorial:  
   <a href="http://www.youtube.com/watch?feature=player_embedded&v=JM9Za5X7E24" target="_blank"><img src="http://img.youtube.com/vi/JM9Za5X7E24/0.jpg" 
-alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" />ASSISTA O TUTORIAL</a>
+alt="ASSISTA NOSSO TUTORIAL NO YOUTUBE" width="100%"  border="0" />ASSISTA O TUTORIAL: Python Opencv |  Machine Learning com Acertividade | Crie seus  Dataset's e Trainers </a>
   
   
 # Links de estudo:
